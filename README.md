@@ -1,1 +1,3 @@
-# linked-lists
+# Usage
+
+Run `node main`
